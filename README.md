@@ -8,6 +8,11 @@
 > A simple web app that performs real-time sentiment analysis on news headlines using Streamlit and MongoDB.
 
 ---
+### A look how the webpages look like
+
+<img width="951" height="466" alt="image" src="https://github.com/user-attachments/assets/9f069fd1-4cf7-4ae6-879e-4216c5491fd5" />
+
+<img width="952" height="480" alt="image" src="https://github.com/user-attachments/assets/4cdeb276-aa51-47d9-b747-37f3bc7ef38e" />
 
 ---
 
